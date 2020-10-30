@@ -1,3 +1,3 @@
 # Clase_2_Geek
-Algoritmos
+Algoritmos de clase
 2020/10/28
